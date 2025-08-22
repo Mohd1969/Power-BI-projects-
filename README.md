@@ -1,6 +1,6 @@
 # Health Care analysis 
 
-This Power BI report presents a detailed analysis of Health care . The dashboard provides insights into Diagnosis, Departments, visit dates , and Treatment Costs using interactive visuals and KPIs.
+This Power BI report presents a detailed analysis of Health care data The dashboard provides insights into Diagnosis, Departments, visit dates , and Treatment Costs using interactive visuals and KPIs.
 
 ## 📊 Key Features
 
