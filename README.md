@@ -35,7 +35,10 @@ This Power BI report presents a detailed analysis of Health care data The dashbo
 ## 👤 Author
 
 **Mohammed Haj Mustafa**  
-**[LinkedIn Profile]**(https://www.linkedin.com/in/your-profile) &
+**[LinkedIn Profile]**(https://www.linkedin.com/in/your-profile)   &
+
+https://www.linkedin.com/posts/%C2%AEmohammed-mostafa-pmp-a7440932_health-care-analysis-y-bower-bi-program-activity-7364686585449054209-Doq3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbS0rgBu9YJc-dQbgdyWAGTRkaIJcoCkHY
+
 
 
 **Power BI link :** https://app.powerbi.com/links/Q4d65rXEs-?ctid=8fcf4cd9-2fe4-4571-8431-b17c3f29efb3&pbi_source=linkShare
